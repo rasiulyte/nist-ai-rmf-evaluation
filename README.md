@@ -42,10 +42,6 @@ This is a demonstration, not a comprehensive audit. Not tested:
 - Enterprise permission boundaries
 - Multi-turn consistency
 
-## View the project
-
-[rasar.ai/work/nist-mapping](https://rasar.ai/work/nist-mapping.html)
-
 ## Author
 
 Rasa Rasiulytė  
